@@ -146,4 +146,16 @@ public class GenerateCone : MonoBehaviour
 
         return m;
     }
+
+    // This method is called by the "slider" object whenever it updates. Don't
+    // worry about how this works for now, we'll cover UI in a future workshop.
+    public void SetNumBaseVertices(float numBaseVertices)
+    {
+        this.numBaseVertices = (int)numBaseVertices;
+    }
+
+    public int GetNumBaseVertices()
+    {
+        return this.numBaseVertices;
+    }
 }

@@ -2,7 +2,7 @@
 
 # COMP30019 – Graphics and Interaction
 
-## Workshop 2
+## Workshop 2: Polygonal Geometry
 
 <p align="center">
   <a href="https://github.com/COMP30019/Workshop-2-Solution/actions/workflows/main.yml" alt="Workflow Status">
